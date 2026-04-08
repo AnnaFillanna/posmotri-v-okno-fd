@@ -9,14 +9,12 @@ block-size: 100%;
 }
 
 .page {
-block-size: 100%;
 min-height: 100vh;
 color: #fff;
 font-family: 'Fira Sans Condensed', sans-serif;
 font-size: 18px;
 display: flex;
 justify-content: center;
-align-items: center;
 background-color: #1b1919;
 }
 
